@@ -173,3 +173,8 @@ Numerical Methods
 Turbulent Flow Modelling
 Aerospace Vehicle Design
 ```
+## A sneek peek into some of the results 
+
+<img width="1090" height="677" alt="image" src="https://github.com/user-attachments/assets/34871fc7-0756-4116-99ea-f8c9ed4e612b" />
+<img width="1090" height="662" alt="image" src="https://github.com/user-attachments/assets/2256aa43-a6ae-4ad7-921a-e4f1fb4ede1c" />
+
